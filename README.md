@@ -104,16 +104,11 @@ me.say_hi()
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Vincenzo-sur&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0D1117&title_color=7B2FBE&icon_color=7B2FBE&text_color=C9D1D9&count_private=true" alt="GitHub Stats" width="100%"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vincenzo-sur&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0D1117&title_color=7B2FBE&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="100%"/>
-    </td>
-  </tr>
-</table>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vincenzo-sur&theme=tokyonight" width="100%" alt="Profile Summary"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vincenzo-sur&theme=tokyonight" width="32%" alt="Repos per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vincenzo-sur&theme=tokyonight" width="32%" alt="Most Commit Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vincenzo-sur&theme=tokyonight" width="32%" alt="Stats"/>
 
 </div>
 
@@ -125,11 +120,35 @@ me.say_hi()
 
 ---
 
-## 🏆 GitHub Achievements
+## ⚡ Currently In The Lab
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Vincenzo-sur&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" width="100%"/>
+| 🔨 What I'm Building | 📚 Currently Learning | 🎯 2026 Goals |
+|:---:|:---:|:---:|
+| Portable AI Tools | Advanced C++ & Systems Design | Ship 5 projects |
+| Browser Extensions | Full-Stack Web Dev | Contribute to Open Source |
+| Campus Tech Solutions | Linux Internals & Shell | Build an AI-powered app |
+
+</div>
+
+<div align="center">
+
+### 🧪 Skill Progress
+
+![AI/LLM](https://img.shields.io/badge/AI%20%26%20LLM-Leveling%20Up%20%F0%9F%94%A5-7B2FBE?style=for-the-badge&logo=pytorch&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Intermediate%20%E2%9A%A1-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Proficient%20%F0%9F%9A%80-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-Intermediate%20%E2%98%95-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Daily%20Driver%20%F0%9F%90%A7-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Web Dev](https://img.shields.io/badge/Web%20Dev-Building%20%F0%9F%8C%90-007ACC?style=for-the-badge&logo=vercel&logoColor=white)
+
+### 🎮 Developer Card
+
+![Open Source](https://img.shields.io/badge/Open%20Source-Advocate%20%F0%9F%94%93-success?style=for-the-badge&logo=github)
+![Privacy First](https://img.shields.io/badge/Privacy-First%20%F0%9F%9B%A1%EF%B8%8F-critical?style=for-the-badge&logo=tor-project&logoColor=white)
+![Air Gapped AI](https://img.shields.io/badge/Air%20Gapped%20AI-Pioneer%20%F0%9F%94%8C-blueviolet?style=for-the-badge&logo=llvm&logoColor=white)
+![Student Dev](https://img.shields.io/badge/Student-Developer%20%F0%9F%8E%93-0075A8?style=for-the-badge&logo=google-scholar&logoColor=white)
 
 </div>
 
